@@ -53,7 +53,7 @@ url_slides = "http://geneticsunderground.com/datascience_presentations/slides/or
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://github.com/jfear/datascience_presentations/blob/master/Fear_Organizing_DataScience_Projects.pdf"
 url_video = ""
 url_code = ""
 
