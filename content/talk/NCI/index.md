@@ -1,5 +1,5 @@
 +++
-title = "Organizing Data Science Porjects"
+title = "Organizing Data Science Projects"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
