@@ -42,7 +42,7 @@ tags = ["datascience"]
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "http://geneticsunderground.com/datascience_presentations/slides/organize/nci-20191212/#1"
+url_slides = "http://justinfear.com/datascience_presentations/slides/organize/nci-20191212/#1"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

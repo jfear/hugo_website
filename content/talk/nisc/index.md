@@ -42,7 +42,7 @@ tags = ["sra", "PacBio"]
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://geneticsunderground.com/sra_presentations/slides/nisc/"
+url_slides = "https://justinfear.com/sra_presentations/slides/nisc/"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
